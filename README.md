@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🔭
 -->
-💬 Estudante de Analise e desenvolvimento de sistema
+🌱 Estudante de Análise e desenvolvimento de sistemas
 
 ## Linguagens e ferramentas
 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/maria-eduarda-benevenutti-8aa046238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/eduardabenevenutti77/eduardabenevenutti77/blob/output/github-contribution-grid-snake.svg)
 
           
                     
