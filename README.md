@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🔭
 -->
-🌱 Estudante de Análise e desenvolvimento de sistemas
+🌱 Estudante de Análise e Desenvolvimento de Sistemas
 
 ## Linguagens e ferramentas
 
