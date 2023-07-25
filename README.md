@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 
 🔭
 -->
-🌱 Estudante de Análise e Desenvolvimento de Sistemas
+🌱 Estudante de Análise e Desenvolvimento de Sistemas - 2º Semestre
 
 🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend :)
+
+⚡ Técnica de Informática - 2022
 
 ## Linguagens e ferramentas
 
