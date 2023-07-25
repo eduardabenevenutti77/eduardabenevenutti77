@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend :)
 
-⚡ Técnica de Informática - 2022
+⚡ Estudante de ensino médio técnico em informática - 2020 à 2022
 
 ## Linguagens e ferramentas
 
