@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 🔭
 -->
+### Olá! Eu sou a  Maria Eduarda Benevenutti
+## Bem vindos ao meu perfil do GitHub 👋
+
 🌱 Estudante de Análise e Desenvolvimento de Sistemas - 2º Semestre
 
 🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend :)
@@ -37,9 +40,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
           
-          
-          
-
 ## Contatos
 
 <div>
