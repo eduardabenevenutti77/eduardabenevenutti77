@@ -1,6 +1,3 @@
-### Olá! Eu sou a  Maria Eduarda Benevenutti
-## Bem vindos ao meu perfil do GitHub 👋
-
 <!--
 **eduardabenevenutti77/eduardabenevenutti77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
