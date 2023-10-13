@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 🌱 Estudante de Análise e Desenvolvimento de Sistemas - 2º Semestre
 
-🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend :)
+🌱 Estudante de ensino médio técnico em informática - 2020 à 2022
 
-⚡ Estudante de ensino médio técnico em informática - 2020 à 2022
+🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend :)
 
 ## Linguagens de Programação & Ferramentas
 
