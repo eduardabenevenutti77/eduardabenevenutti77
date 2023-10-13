@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 ### Olá! Eu sou a  Maria Eduarda Benevenutti
 ## Bem vindos ao meu perfil do GitHub 👋
+⚡ Estagiária em Desenvolvimento de Software - Weld Vision
 
 🌱 Estudante de Análise e Desenvolvimento de Sistemas - 2º Semestre
 
