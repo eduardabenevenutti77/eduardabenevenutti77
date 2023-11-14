@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend & frontend :)
 
 
-## Linguagens de Programação & Ferramentas
+## Linguagens & Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
