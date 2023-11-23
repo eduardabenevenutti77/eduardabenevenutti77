@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 
 🌱 Estudante de ensino médio técnico em informática - 2020 à 2022
 
+👩‍💻 Estudando <i>Python</i> e <i>Java</i> no tempo livre 
+
 🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend & frontend :)
+
 
 
 ## Linguagens & Ferramentas
@@ -45,8 +48,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
-           
-          
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardabenevenutti77&layout=compact&theme=vue)
 
