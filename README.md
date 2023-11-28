@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🌱 Estudante de ensino médio técnico em informática - 2020 à 2022
 
-👩‍💻 Estudando <i>Python</i> e <i>Java</i> no tempo livre 
+👩‍💻 Estudando <i>Python</i>, <i>Java</i> e <i>Desenvolvimento Web</i> no tempo livre 
 
 🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend & frontend :)
 
