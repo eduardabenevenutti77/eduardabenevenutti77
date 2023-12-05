@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 ## Welcome to my GitHub profile! 👋
 
  
-⚡ Intern in Software Development at Weld Vision
+⚡ Intern in Software Development at <strong>Weld Vision</strong>
 
 🌱 Student of Systems Analysis and Development - 2nd Semester
 
 🌱  High school student in technical computing - 2020 to 2022
 
-👩‍💻  Studying Python, Java, and Web Development in my free time
+👩‍💻  Studying <i>Python</i>, <i>Java</i>, and <i>Web Development</i> in my free time
 
 🔭  Seeking to enhance my knowledge in web development - both backend and frontend :)
 
