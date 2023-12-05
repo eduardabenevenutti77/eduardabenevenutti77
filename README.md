@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 🔭
 -->
+
+![](https://komarev.com/ghpvc/?username=eduardabenevenutti77&color=8BD133)
+
+
 ### Hello! I'm Maria Eduarda Benevenutti
 ## Welcome to my GitHub profile! 👋
 
