@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 
 🔭
 -->
-### Olá! Eu sou a  Maria Eduarda Benevenutti
-## Bem vindos ao meu perfil do GitHub 👋
+### Hello! I'm Maria Eduarda Benevenutti
+## Welcome to my GitHub profile! 👋
 
+ 
+⚡ Intern in Software Development at Weld Vision
 
-⚡ Estagiária em Desenvolvimento de Software - Weld Vision
+🌱 Student of Systems Analysis and Development - 2nd Semester
 
-🌱 Estudante de Análise e Desenvolvimento de Sistemas - 2º Semestre
+🌱  High school student in technical computing - 2020 to 2022
 
-🌱 Estudante de ensino médio técnico em informática - 2020 à 2022
+👩‍💻  Studying Python, Java, and Web Development in my free time
 
-👩‍💻 Estudando <i>Python</i>, <i>Java</i> e <i>Desenvolvimento Web</i> no tempo livre 
-
-🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend & frontend :)
+🔭  Seeking to enhance my knowledge in web development - both backend and frontend :)
 
 
 
@@ -70,4 +70,12 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/eduarda_benevenutti?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:mariaeduardabeneevnutti77@mail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-eduarda-benevenutti-8aa046238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>-->
+</div ⚡ Estagiária em Desenvolvimento de Software - Weld Vision
+
+🌱 Estudante de Análise e Desenvolvimento de Sistemas - 2º Semestre
+
+🌱 Estudante de ensino médio técnico em informática - 2020 à 2022
+
+👩‍💻 Estudando <i>Python</i>, <i>Java</i> e <i>Desenvolvimento Web</i> no tempo livre 
+
+🔭 Buscando aprimorar meus conhecimentos em desenvolvimento web - backend & frontend :)>-->
