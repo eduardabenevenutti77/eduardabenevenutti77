@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardabenevenutti77&layout=compact&theme=vue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardabenevenutti77&show_icons=true&theme=vue)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardabenevenutti77&theme=vue)
 <!--[(username=eduardabenevenutti77&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardabenevenutti77&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)-->
 
