@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
 ⚡ Intern in Software Development at <strong>Weld Vision</strong>
 
-🌱 Student of Systems Analysis and Development - 2nd Semester
+🌱 Student of Systems Analysis and Development - 3nd Semester
 
 🌱  High school student in technical computing - 2020 to 2022
 
