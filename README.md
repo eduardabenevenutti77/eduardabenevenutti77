@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 🌱  High school student in technical computing - 2020 to 2022
 
-👩‍💻  Studying <i>Python</i>, <i>Java</i>, and <i>Web Development</i> in my free time
+👩‍💻  Studying <i>Python</i>, <i>React</i>, and <i>Web Development</i> in my free time
 
 🔭  Seeking to enhance my knowledge in web development - both backend and frontend :)
 
