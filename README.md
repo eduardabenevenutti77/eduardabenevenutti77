@@ -15,6 +15,8 @@
 
 🔭  Seeking to enhance my knowledge in web development - frontend :)
 
+<!--👩‍💻 Explore my portfolio to discover my qualifications and stay updated on my latest achievements-->
+
 
 ## Languages & Tools:
 <div align="center">
