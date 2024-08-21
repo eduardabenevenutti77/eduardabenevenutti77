@@ -9,7 +9,9 @@
  
 🌱 Estudante de Análise e Desenvolvimento de Sistemas - 4º Semestre
 
-🌱 Ensino Médio integrado ao técnico de informática - 2020 to 2022
+🌱 Curso de Inglês - Rockfeller
+
+🌱 Ensino Médio integrado ao técnico de informática - 2020 até 2022
 
 ## Linguagens & Ferramentas:
 <div align="center">
