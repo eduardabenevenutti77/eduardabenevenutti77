@@ -1,25 +1,17 @@
 ---
 ![](https://komarev.com/ghpvc/?username=eduardabenevenutti77&color=8BD133)
 
-### Hello! I'm Maria Eduarda Benevenutti
-## Welcome to my GitHub profile! 👋
+### Olá! Bem vindo(a) ao meu perfil no github! 👋
 
-⚡ Intern in software implementation support at <strong>Zopu</strong> 
+⚡ Estágio em Suporte à Implementação de Software na <strong>Zopu</strong> 
 
-⚡ Intern in Software Development at <strong>Weld Vision</strong> - 2023 to 2024
+⚡ Estágio em Desenvolvimento na <strong>Weld Vision</strong> - 2023 até 2024
  
-🌱 Student of Systems Analysis and Development - 4nd Semester
+🌱 Estudante de Análise e Desenvolvimento de Sistemas - 4º Semestre
 
-🌱  High school student in technical computing - 2020 to 2022
+🌱 Ensino Médio integrado ao técnico de informática - 2020 to 2022
 
-<!---👩‍💻  Studying <i>Python</i>, <i>React</i>, and <i>Web Development</i> in my free time
-
-🔭  Seeking to enhance my knowledge in web development - frontend :)-->
-
-<!--👩‍💻 Explore my portfolio to discover my qualifications and stay updated on my latest achievements-->
-
-
-## Languages & Tools:
+## Linguagens & Ferramentas:
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
@@ -38,7 +30,7 @@
 </div>
 
 
-## Social Media:
+## Social:
 
 <div align="center">
 <a href="https://instagram.com/eduarda_benevenutti?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
