@@ -4,16 +4,17 @@
 ### Hello! I'm Maria Eduarda Benevenutti
 ## Welcome to my GitHub profile! 👋
 
- 
-⚡ Intern in Software Development at <strong>Weld Vision</strong>
+⚡ Intern in software implementation support at <strong>Zopu</strong> 
 
+⚡ Intern in Software Development at <strong>Weld Vision</strong> - 2023 to 2024
+ 
 🌱 Student of Systems Analysis and Development - 4nd Semester
 
 🌱  High school student in technical computing - 2020 to 2022
 
-👩‍💻  Studying <i>Python</i>, <i>React</i>, and <i>Web Development</i> in my free time
+<!---👩‍💻  Studying <i>Python</i>, <i>React</i>, and <i>Web Development</i> in my free time
 
-🔭  Seeking to enhance my knowledge in web development - frontend :)
+🔭  Seeking to enhance my knowledge in web development - frontend :)-->
 
 <!--👩‍💻 Explore my portfolio to discover my qualifications and stay updated on my latest achievements-->
 
