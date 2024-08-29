@@ -9,7 +9,7 @@
  
 🌱 Estudante de Análise e Desenvolvimento de Sistemas - 4º Semestre
 
-🌱 Curso de Inglês - Rockfeller
+🌱 Curso de Inglês **Impulse** - Rockfeller
 
 🌱 Ensino Médio integrado ao técnico de informática - 2020 até 2022
 
