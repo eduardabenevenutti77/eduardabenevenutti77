@@ -3,7 +3,7 @@
 
 ### Olá! Bem vindo(a) ao meu perfil no github! 👋
 
-⚡ Estágio em Suporte à Implementação de Software na <strong>Zopu</strong> 
+⚡ Estágio em Implementação de Software na <strong>Zopu</strong> 
 
 ⚡ Estágio em Desenvolvimento na <strong>Weld Vision</strong> - 2023 até 2024
  
