@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Maria Eduarda  from Joinville, Brazil.<br><br>🔭 I’m working as a Software Implementation Intern at Zopu.<br>📚 I'm currently learning Fullstack Development, React, and improving my skills in API integrations.<br>⚡ In my free time I enjoy exploring new technologies and honing my programming skills.</p>
+<p align="left">I'm Maria Eduarda  from Joinville, Brazil.<br><br>🔭 I’m working as a Software Implementation at Zopu.<br>📚 I'm currently learning Fullstack Development, React, and improving my skills in API integrations.<br>⚡ In my free time I enjoy exploring new technologies and honing my programming skills.</p>
 
 ###
 
